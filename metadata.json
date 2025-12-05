@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Zork: Dual Agent Adventure",
+  "description": "A self-playing text adventure where two Gemini AI agents act as the Player and the Game Master. Features a persistent simulated SQL database and real-time map generation.",
+  "requestFramePermissions": []
+}
